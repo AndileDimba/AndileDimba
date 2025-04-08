@@ -1,6 +1,6 @@
 - 👋 Hi, I’m `Andile Dimba`
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Javascript
+- 🌱 I’m currently a software engineer using C#, .Net for the backend, and Javascript frameworks for the front end.
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me email: mlamuliforex@gmail.com Twitter: https://twitter.com/SnDKiller18/
 
