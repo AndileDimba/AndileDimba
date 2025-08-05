@@ -17,7 +17,7 @@ I'm a Full-Stack Software Engineer from Sandton, South Africa, with over **3 yea
 
 ## 🏢 Work Experience Highlights
 
-### 🔹 Intermediate Software Engineer – Interfile (Oct 2023 – Present)
+### 🔹 Intermediate Software Engineer – Interfile (Oct 2023 – May 2025)
 - Modernizing and supporting systems for **Home Affairs SA**
 - Working across **C# (WPF), Python**, and **Angular** to ensure smooth system operations
 - Took lead during a manager's leave, coordinating daily support and delivery
